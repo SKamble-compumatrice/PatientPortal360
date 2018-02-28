@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21659" started-at="2018-02-28T08:48:40Z" finished-at="2018-02-28T08:49:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21659" started-at="2018-02-28T08:48:40Z" finished-at="2018-02-28T08:49:02Z">
+      <class name="com.PhysicianPortal.test.PhysicianPortalFeatures">
+        <test-method status="PASS" signature="login()[pri:1, instance:com.PhysicianPortal.test.PhysicianPortalFeatures@67b64c45]" name="login" duration-ms="21644" started-at="2018-02-28T14:18:40Z" finished-at="2018-02-28T14:19:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.PhysicianPortal.test.PhysicianPortalFeatures -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
